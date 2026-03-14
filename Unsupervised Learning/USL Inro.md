@@ -4,6 +4,7 @@
 This means the dataset **does not have correct answers or predefined categories**.
 
 Instead of predicting a known output, the algorithm **analyzes the data by itself** to find **hidden patterns, structures and make groups of similar relationships**.
+
 ---
 
 ## Core Tasks of Unsupervised Learning
